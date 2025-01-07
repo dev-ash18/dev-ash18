@@ -13,7 +13,6 @@ Welcome to my GitHub profile! I'm a full-stack developer with a passion for buil
 - **CMS:** Wordpress
 
 ## 📬 Let's Connect!
-- [LinkedIn](your-linkedin-url)
 - Email: [info789ash@gmail.com]
 
 ---
